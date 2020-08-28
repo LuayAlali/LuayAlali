@@ -1,4 +1,4 @@
-<strong>Hey</strong>welcome to my page. I'm super excited you are here, and looking forward to possibly connecting. You'll find here all the projects I'm currently working on. And hopefully get a better sense of who I am.  I'll tell ya now! I'm not shy and love to connect, co-create and always down to learn a thing or two...or 100!!
+<strong>Hey</strong> welcome to my page. I'm super excited you are here, and looking forward to possibly connecting. You'll find here projects I'm currently working on. And hopefully get a better sense of who I am.  I'll tell ya now! I'm not shy and love to connect, co-create and always down to learn a thing or two...or 100!!
 
 
 - 🔭 I’m currently working on using Graph API on a SAAS project
