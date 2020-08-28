@@ -8,5 +8,5 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: luayalali@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: <strong>Once upon a time, I would walk up to group of 40-50 people and guide them through a workout. All while participating in the workout myself. I did this for many years.</strong>
+- ⚡ Fun fact: <strong>Once upon a time, I would walk up to a group of 40-50 people and guide them through a workout. All while participating in the workout myself. I did this for many years.</strong>
 
