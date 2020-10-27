@@ -1,7 +1,7 @@
 <strong>Hey</strong>, welcome to my page. I'm super excited you are here, and looking forward to possibly connecting. Here you'll find projects I'm currently working on and hopefully get a better sense of who I am. I'll tell ya now! I'm not shy and love to connect, co-create and always down to learn a thing or two...or 100!!
 
 
-- 🔭 I’m currently working on a full-stack Vue project
+- 🔭 I’m currently working on a full-stack React project
 - 🌱 I’m currently learning Vue.js
 - 👯 I’m looking to collaborate on <strong>everything!!!</strong>
 - 🤔 I’m looking for help with connecting to like minded people
