@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a full-stack React project
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Redux/React
 - 👯 I’m looking to collaborate on <strong>everything!!!</strong>
 - 🤔 I’m looking for help with connecting to like minded people
 - 💬 Ask me about anything
