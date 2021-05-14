@@ -2,7 +2,7 @@
 
 
 - 🔭 Looking for work.
-- 🌱 I’m currently scuba dive.
+- 🌱 I’m currently learning to scuba dive.
 - 👯 I’m looking to collaborate on <strong>everything!!!</strong>
 - 🤔 I’m looking for help with connecting to like minded people
 - 💬 Ask me about anything
